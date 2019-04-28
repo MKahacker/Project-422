@@ -1,1 +1,4 @@
 data_public.csv
+iris_pipeline.dot
+iris_pipeline.dot.png
+pipeline.onnx
